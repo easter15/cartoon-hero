@@ -7,16 +7,17 @@ header{
     background-color: green;
     text-align: center;
     padding-top: 50px;
-    padding-bottom: 5px;
+    padding-bottom: 3px;
 }
 
 h1, h2{
-    font-family: 'Gochi Hand', cursive;
+    font-family: 'Freckle Face', cursive;
 }
 
 header h1{
-    color: yellow;
+    color: rgb(54, 0, 161); 
     font-size: 100px;
+    text-shadow: -2px 0 yellow, 0 1px yellow, 1px 0 yellow, 0 -2px yellow;
 
 }
 
