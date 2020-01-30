@@ -17,7 +17,7 @@ h1, h2{
 header h1{
     color: rgb(54, 0, 161); 
     font-size: 100px;
-    text-shadow: -2px 0 yellow, 0 1px yellow, 1px 0 yellow, 0 -2px yellow;
+    text-shadow: -2px 0 yellow, 0 1px yellow, 0px 0 yellow, 0 -2px yellow;
 
 }
 
